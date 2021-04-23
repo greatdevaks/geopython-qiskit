@@ -1,7 +1,7 @@
 # geopython-qiskit: Conference Material
 
 # Talk Title
-Understanding Qiskit: Quantum by Quantum
+Understanding Qiskit: Quantum by Quantum - GeoPython 2021
 
 # Speaker
 Anmol Krishan Sachdeva
