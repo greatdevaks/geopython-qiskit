@@ -31,3 +31,9 @@ Last year, Anmol helped organize EuroPython 2020, GeoPython & Python Machine Lea
 In past, he has spoken at renowned conferences and tech forums like KubeCon, PyCon, EuroPython, GeoPython, and got invited as a Chief Guest / Guest of Honour at various events.
 
 He likes innovating, keeping in touch with new technological trends, and mentoring people.
+
+# References and Acknowledgements
+- [Quantum Computation and Quantum Information: Textbook by Isaac Chuang and Michael Nielsen] (https://www.amazon.in/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)
+- [Dancing with Qubits: Textbook by Robert S. Sutor] (https://www.packtpub.com/product/dancing-with-qubits/9781838827366)
+- https://qiskit.org/
+
